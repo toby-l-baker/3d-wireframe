@@ -1,0 +1,5 @@
+data/junc/processed/*
+data/linepx/processed/*
+data/pointlines/
+data/v1.1/
+result/
