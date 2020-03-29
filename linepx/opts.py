@@ -31,7 +31,7 @@ def parse():
     parser.add_argument('--imgDim',           default=320,
                         type=int,        help='Image dimension')
     # Training/testing options
-    parser.add_argument('--nEpochs',          default=25,
+    parser.add_argument('--nEpochs',          default=100,
                         type=int,        help='Number of total epochs to run')
     parser.add_argument('--epochNum',         default=-1,             type=int,
                         help='0=retrain | -1=latest | -2=best', choices=[0, -1, -2])

@@ -1,0 +1,40 @@
+
+2020-03-28 15:46:30.370740
+
+2020-03-28 15:49:26.477308
+
+2020-03-28 15:52:50.409315
+
+2020-03-28 15:59:11.986837
+
+2020-03-28 16:03:04.006320
+train epoch: [1][27149/27150]| LR: 0.010000| Speed: 40.41/s| Remaining: 00:00:00 | Loss 2.445828|  JuncConf 0.190374| JuncRes 6.156849| BinConf 0.211840| BinRes 14.279181
+train epoch: [2][27149/27150]| LR: 0.010000| Speed: 41.90/s| Remaining: 00:00:00 | Loss 1.824248|  JuncConf 0.160638| JuncRes 5.280301| BinConf 0.170089| BinRes 9.654866
+train epoch: [3][27149/27150]| LR: 0.010000| Speed: 42.49/s| Remaining: 00:00:00 | Loss 1.696913|  JuncConf 0.154710| JuncRes 5.034806| BinConf 0.162537| BinRes 8.761881
+train epoch: [4][27149/27150]| LR: 0.010000| Speed: 42.79/s| Remaining: 00:00:00 | Loss 1.617475|  JuncConf 0.151173| JuncRes 4.876727| BinConf 0.158649| BinRes 8.199794
+train epoch: [5][27149/27150]| LR: 0.010000| Speed: 42.14/s| Remaining: 00:00:00 | Loss 1.560513|  JuncConf 0.149058| JuncRes 4.757261| BinConf 0.156338| BinRes 7.793903
+train epoch: [6][27149/27150]| LR: 0.010000| Speed: 42.04/s| Remaining: 00:00:00 | Loss 1.514325|  JuncConf 0.147507| JuncRes 4.654068| BinConf 0.154730| BinRes 7.466724
+train epoch: [7][27149/27150]| LR: 0.010000| Speed: 42.10/s| Remaining: 00:00:00 | Loss 1.475150|  JuncConf 0.146428| JuncRes 4.564363| BinConf 0.153585| BinRes 7.187030
+train epoch: [8][27149/27150]| LR: 0.000100| Speed: 42.16/s| Remaining: 00:00:00 | Loss 1.294600|  JuncConf 0.140620| JuncRes 4.136395| BinConf 0.146850| BinRes 5.934872
+train epoch: [9][27149/27150]| LR: 0.001000| Speed: 42.88/s| Remaining: 00:00:00 | Loss 1.258567|  JuncConf 0.139409| JuncRes 4.035996| BinConf 0.145581| BinRes 5.699753
+train epoch: [10][27149/27150]| LR: 0.001000| Speed: 42.64/s| Remaining: 00:00:00 | Loss 1.240021|  JuncConf 0.139034| JuncRes 3.979417| BinConf 0.145110| BinRes 5.579348
+train epoch: [11][27149/27150]| LR: 0.001000| Speed: 41.65/s| Remaining: 00:00:00 | Loss 1.225111|  JuncConf 0.138743| JuncRes 3.931622| BinConf 0.144808| BinRes 5.484045
+train epoch: [12][27149/27150]| LR: 0.000010| Speed: 41.43/s| Remaining: 00:00:00 | Loss 1.196685|  JuncConf 0.138123| JuncRes 3.841208| BinConf 0.144176| BinRes 5.302663
+train epoch: [13][27149/27150]| LR: 0.000100| Speed: 42.46/s| Remaining: 00:00:00 | Loss 1.193578|  JuncConf 0.138120| JuncRes 3.830382| BinConf 0.144107| BinRes 5.283165
+train epoch: [14][27149/27150]| LR: 0.000100| Speed: 42.11/s| Remaining: 00:00:00 | Loss 1.191570|  JuncConf 0.138001| JuncRes 3.823567| BinConf 0.144078| BinRes 5.271314
+train epoch: [15][27149/27150]| LR: 0.000100| Speed: 41.77/s| Remaining: 00:00:00 | Loss 1.189961|  JuncConf 0.138119| JuncRes 3.817181| BinConf 0.144048| BinRes 5.260773
+train epoch: [16][27149/27150]| LR: 0.000001| Speed: 42.20/s| Remaining: 00:00:00 | Loss 1.186414|  JuncConf 0.137903| JuncRes 3.805843| BinConf 0.144001| BinRes 5.239260
+train epoch: [17][27149/27150]| LR: 0.000010| Speed: 42.21/s| Remaining: 00:00:00 | Loss 1.186139|  JuncConf 0.137910| JuncRes 3.804847| BinConf 0.143992| BinRes 5.237472
+train epoch: [18][27149/27150]| LR: 0.000010| Speed: 42.09/s| Remaining: 00:00:00 | Loss 1.185933|  JuncConf 0.137908| JuncRes 3.804184| BinConf 0.143986| BinRes 5.236248
+train epoch: [19][27149/27150]| LR: 0.000010| Speed: 42.69/s| Remaining: 00:00:00 | Loss 1.185788|  JuncConf 0.137935| JuncRes 3.803533| BinConf 0.143985| BinRes 5.235113
+train epoch: [20][27149/27150]| LR: 0.000010| Speed: 42.12/s| Remaining: 00:00:00 | Loss 1.185581|  JuncConf 0.137904| JuncRes 3.802890| BinConf 0.143981| BinRes 5.234049
+train epoch: [21][27149/27150]| LR: 0.000010| Speed: 42.17/s| Remaining: 00:00:00 | Loss 1.185496|  JuncConf 0.137988| JuncRes 3.802258| BinConf 0.143979| BinRes 5.232990
+train epoch: [22][27149/27150]| LR: 0.000010| Speed: 41.39/s| Remaining: 00:00:00 | Loss 1.185300|  JuncConf 0.137957| JuncRes 3.801659| BinConf 0.143978| BinRes 5.232013
+train epoch: [23][27149/27150]| LR: 0.000010| Speed: 42.26/s| Remaining: 00:00:00 | Loss 1.185146|  JuncConf 0.137969| JuncRes 3.801082| BinConf 0.143975| BinRes 5.230938
+train epoch: [24][27149/27150]| LR: 0.000010| Speed: 42.16/s| Remaining: 00:00:00 | Loss 1.184968|  JuncConf 0.137951| JuncRes 3.800486| BinConf 0.143973| BinRes 5.229937
+train epoch: [25][27149/27150]| LR: 0.000010| Speed: 42.46/s| Remaining: 00:00:00 | Loss 1.184688|  JuncConf 0.137836| JuncRes 3.799880| BinConf 0.143972| BinRes 5.228900
+train epoch: [26][27149/27150]| LR: 0.000010| Speed: 42.23/s| Remaining: 00:00:00 | Loss 1.184610|  JuncConf 0.137924| JuncRes 3.799290| BinConf 0.143968| BinRes 5.227911
+train epoch: [27][27149/27150]| LR: 0.000010| Speed: 42.15/s| Remaining: 00:00:00 | Loss 1.184493|  JuncConf 0.137966| JuncRes 3.798683| BinConf 0.143967| BinRes 5.226947
+train epoch: [28][27149/27150]| LR: 0.000010| Speed: 41.79/s| Remaining: 00:00:00 | Loss 1.184261|  JuncConf 0.137893| JuncRes 3.798096| BinConf 0.143964| BinRes 5.225909
+train epoch: [29][27149/27150]| LR: 0.000010| Speed: 41.61/s| Remaining: 00:00:00 | Loss 1.184175|  JuncConf 0.137966| JuncRes 3.797472| BinConf 0.143963| BinRes 5.224959
+train epoch: [30][27149/27150]| LR: 0.000010| Speed: 42.05/s| Remaining: 00:00:00 | Loss 1.183904|  JuncConf 0.137865| JuncRes 3.796862| BinConf 0.143960| BinRes 5.223965
